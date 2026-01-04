@@ -1,0 +1,16 @@
+import React from 'react'
+
+const App = () => {
+  return (
+    <div>
+      <div>My Web App</div>
+      <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ul>
+    </div>
+  )
+}
+
+export default App 
