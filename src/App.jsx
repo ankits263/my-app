@@ -9,7 +9,6 @@ const App = () => {
         <li>Item 2</li>
         <li>Item 3</li>
         <li>Item 4</li>
-<p>This is new line</p>
         
       </ul>
     </div>
